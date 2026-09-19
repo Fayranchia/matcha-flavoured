@@ -274,7 +274,6 @@ There are also plenty of changes I forgot here. Beucase this move from main was 
 - Fermented Spider eye secret meal.
 - New paintings (with hints!).
 - Bag of Sugar!
-- ADV: Restore its memory, of what it used to be (Echoes: Restore an Echo Shard's memory).
 - Shields
     - Steel shield: a normal shield but with high durability/unbreaking enchant attached.
     - Shakudo shield: prevents you from splash potion effects being applied to you if held up (looking at witches), could also give a small amount of magic res as a bonus.
