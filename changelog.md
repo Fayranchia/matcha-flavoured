@@ -64,7 +64,7 @@ This symbol (🖌️) means the art was added by community artists (music is art
 ### Tweaks & Small Additions 
 - Enderman can only pick up melon, pumpkins, and TNT (💻, Linkershim).
 - Multiplayer support improvements! (💻, Linkershim).
-- Trim Colours added (💻, Tralomine & Me):
+- Trim Colours added (💻, Tralomine & Klei):
     * Yet to add: Electrum, Shakudo, Hepatizon, Silver
     * If you have better textures send them to the GitHub, I ran out of ideas for these
 - Buffed Sturdy Leather's Safe Fall Distance (1 -> 2).
